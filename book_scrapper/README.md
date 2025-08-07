@@ -17,6 +17,7 @@ This project scrapes all book data from https://books.toscrape.com/, stores it i
   - Number of 5-star books
 
 ## Steps to run
+- First, change directory to the project folder "cd book_scrapper"
 - create an env using the command "python3 -m venv venv" where venv is the virtual environment name
 - Activate the virtual environment using "source venv/bin/activate" (Linux/Mac) or "venv\Scripts\activate" (Windows)
 - Install the required dependencies using "pip install -r requirements.txt"
